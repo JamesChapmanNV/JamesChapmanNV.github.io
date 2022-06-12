@@ -20,7 +20,11 @@ Dr. Namboodiri brought his expertise of wireless technology into the accessibili
 
 ## About My Project
 
-CITYGUIDE
+CITYGUIDE is a location-based service for independent mobility. It was created in partnership amongst Envision Research Institute and Wichita State University. It aims to provide a low-cost, accurate, and reliable turn-by-turn navigation application, that seamlessly transitions between indoor and outdoor environments. My project for the summer extends Dr. Namboodiri’s work on CITYGUIDE. 
+
+OpenStreetMap is an open source, geographic database, similar to Google maps. It provides much potential for expressing accessibility information, on a scale that is needed. However, addressing the needs of the large and diverse disabled population is still in early stages of existence. 
+
+My project aims to analyze the current state of indoor accessibility information available in OpenStreetMap. It will involve creating queries to extract data from the database and examine the current state of the organization of the data. This project has the capacity to better the lives of many people and I am pleased to be part of it.
 
 [CITYGUIDE website](https://research.envisionus.com/Projects/CityGuide-Community-Project)
 
