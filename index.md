@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 ![James Chapman]({{ site.baseurl }}/images/IMG_0589.jpg )
-![James Chapman graduating]({{ site.baseurl }}/images/IMG_0339.JPG )
+![James Chapman graduating]({{ site.baseurl }}/images/IMG_0337.JPG )
 
 I plan to graduate in December 2022 with a post-bachelorette in Computer Science from Fort Hays State University. I hold a BS in Chemical Engineering from University of Nevada, Reno. Six months after graduating, I was injured in a diving accident. I am paralyzed below the tops of my shoulders. I control my computer with my mouth, using a Quadstick, along with some voice control and dictation software. This is the reason I am pursuing research in Computer science. I hope to contribute to the assistive technology industry and tear down some barriers that are keeping some people from being independent. I plan to start a masters in computer science in Spring 2023.
 
